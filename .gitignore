@@ -5,8 +5,12 @@
 ### Java ###
 # Compiled class file
 *.class
+.project
+.classpath
+.settings
+.settings/*
 
-
+bin
 # Log file
 *.log
 
